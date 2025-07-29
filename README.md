@@ -24,23 +24,29 @@ Analyze college placement trends using real-world datasets! This project uses SQ
 
 ---
 
-## 📊 Final Excel Report with Charts
+## 📊 Excel Visualizations
 
-This Excel file contains the full College Placement SQL project output along with visualizations (Pie Chart, Summary Sheets, etc.)
+### 🔸 Pie Chart: Placement by Branch  
+Shows % of placed students across different branches using a clean pie chart.
 
-🔗 [Download Full Excel Report (OneDrive)](https://1drv.ms/x/c/6ac78334c96d912a/ESAhn2AAEwZCrhRWzp7tJCEBwWkd9cfPg-pAbiEnalJ6gg?e=0zxUeC)
+🔗 **[Download Pie Chart Excel File](https://1drv.ms/x/c/6ac78334c96d912a/EZDhORXY8U1Ivuoo8X_8uAEBAQP5IhRnpGfWOe-spa-03w?e=unKosH)**
 
-## 📊 Pie Chart Visualization (Excel)
+---
 
-📌 This pie chart shows placement percentage by branch. It was created using Excel based on the output of SQL analysis.
+### 🔸 Final Excel Report (SQL Results + Charts)  
+Includes SQL output, cleaned summary sheets, pie chart, and formatted dashboard-style views.
 
-🔗 [Download Pie Chart Excel File](https://1drv.ms/x/c/6ac78334c96d912a/EZDhORXY8U1Ivuoo8X_8uAEBAQP5IhRnpGfWOe-spa-03w?e=unKosH)
+🔗 **[Download Full Excel Report](https://1drv.ms/x/c/6ac78334c96d912a/ESAhn2AAEwZCrhRWzp7tJCEBwWkd9cfPg-pAbiEnalJ6gg?e=0zxUeC)**
 
-🖼️ Pie Chart Screenshot:  
-![Pie Chart](screenshots/12_Pie_Chart_Placement_By_Branch.png)
+---
 
-<!-- If you upload screenshot image to GitHub, then also include this line -->
-<!-- ![Pie Chart](screenshots/12_Pie_Chart_Placement_By_Branch.png) -->
+## 🗂️ GitHub Repository
+
+Access all project files, SQL scripts, and resources in the GitHub repository:
+
+🔗 **[GitHub Link – Click Here](YOUR_GITHUB_LINK_HERE)**
+
+---
 
 
 ## 🛠️ Tools & Technologies
