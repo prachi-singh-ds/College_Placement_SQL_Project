@@ -29,8 +29,11 @@ Analyze college placement trends using real-world datasets! This project uses SQ
 📌 This pie chart shows placement percentage by branch. It was created using Excel based on the output of SQL analysis.
 
 🔗 [Download Pie Chart Excel File](https://1drv.ms/x/c/6ac78334c96d912a/EZDhORXY8U1Ivuoo8X_8uAEBAQP5IhRnpGfWOe-spa-03w?e=unKosH)  
+
 🖼️ Screenshot of the pie chart visualization:  
+
 ![Pie Chart Screenshot](C:\Users\HP\OneDrive\Documents\College_Placement_Analytics_SQL_Project\screenshots\12_Pie_Chart_Placement_By_Branch.png)
+
 ---
 
 ## 📁 Download Project Files
