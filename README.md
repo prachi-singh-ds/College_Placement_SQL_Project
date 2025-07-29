@@ -44,7 +44,7 @@ Includes SQL output, cleaned summary sheets, pie chart, and formatted dashboard-
 
 Access all project files, SQL scripts, and resources in the GitHub repository:
 
-🔗 **[GitHub Link – Click Here](YOUR_GITHUB_LINK_HERE)**
+🔗 **[GitHub Link – Click Here](https://github.com/prachi-singh-ds/College_Placement_SQL_Project)**
 
 ---
 
