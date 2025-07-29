@@ -46,6 +46,11 @@ Access all project files, SQL scripts, and resources in the GitHub repository:
 
 🔗 **[GitHub Link – Click Here](https://github.com/prachi-singh-ds/College_Placement_SQL_Project)**
 
+
+## 🔗 View on Kaggle
+👉 [College Placement Analytics – SQL Project (Kaggle)](https://www.kaggle.com/datasets/prachisingh29ds/college-placement-analytics-sql-project)
+
+
 ---
 
 
