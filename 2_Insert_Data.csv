@@ -1,0 +1,19 @@
+BRANCH ,STUDENTCOUNT
+,
+CSE,2
+ESE,1
+IT ,1
+ME,1
+,
+,
+,
+A1: Branch,
+B1: StudentCount,
+A2: CSE,
+B2: 2,
+A3: ECE,
+B3: 1,
+A4: IT,
+B4: 1,
+A5: ME,
+B5: 1,
