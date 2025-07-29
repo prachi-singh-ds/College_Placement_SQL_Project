@@ -36,6 +36,9 @@ This Excel file contains the full College Placement SQL project output along wit
 
 🔗 [Download Pie Chart Excel File](https://1drv.ms/x/c/6ac78334c96d912a/EZDhORXY8U1Ivuoo8X_8uAEBAQP5IhRnpGfWOe-spa-03w?e=unKosH)
 
+🖼️ Pie Chart Screenshot:  
+![Pie Chart](screenshots/12_Pie_Chart_Placement_By_Branch.png)
+
 <!-- If you upload screenshot image to GitHub, then also include this line -->
 <!-- ![Pie Chart](screenshots/12_Pie_Chart_Placement_By_Branch.png) -->
 
